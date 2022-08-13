@@ -1,6 +1,6 @@
 # KACL
 Supplementary description of both model and experiments in KACL
-- Including:
+- *Including*:
 
 - Model Details
 - Dataset Description
